@@ -2,11 +2,11 @@
   "name": "proxy-cloudflare",
   "version": "0.0.1",
   "private": true,
-  "author": "Blake Park <blkpark@blkpark.com>"
+  "author": "Blake Park <blkpark@blkpark.com>",
   "description": "bot",
   "dependencies": {
     "express": "4.13.3",
-    "cloudscraper": "1.2.0",
+    "cloudscraper": "1.2.0"
   },
   "engines": {
     "node": "5.x"
